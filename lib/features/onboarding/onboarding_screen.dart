@@ -1,6 +1,5 @@
 import 'package:coffee/features/onboarding/widgets/onboarding_button.dart';
 import 'package:coffee/features/onboarding/widgets/onboarding_title.dart';
-import 'package:coffee/themes/color_manger.dart';
 import 'package:coffee/themes/t_styles.dart';
 import 'package:flutter/material.dart';
 

@@ -25,7 +25,7 @@ class OnboardingButton extends StatelessWidget {
                   minimumSize:
                       WidgetStatePropertyAll(Size(double.infinity, 72))),
               onPressed: () {
-                context.pushNamed(Routes.LoginScreen);
+                context.pushNamed(Routes.HomeScreen);
               },
               child: Text(
                 "Get Started",
