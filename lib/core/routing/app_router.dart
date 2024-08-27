@@ -8,11 +8,11 @@ class AppRouter {
     switch (settings.name) {
       case Routes.OnBoardingScreen:
         return MaterialPageRoute(
-          builder: (_) => HomeScreen(),
+          builder: (_) => OnboardingScreen(),
         );
       case Routes.HomeScreen:
         return MaterialPageRoute(
-          builder: (_) => OnboardingScreen(),
+          builder: (_) => HomeScreen(),
         );
       default:
         return MaterialPageRoute(
