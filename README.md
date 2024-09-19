@@ -2,6 +2,8 @@
 
 Coffee shop application build with flutter 
 responsive Ui
+no clean architecture used 
+focused on transform UX design into interfaces 
 
 ## Screenshots
 <img src="https://github.com/user-attachments/assets/599440ff-876b-4a04-80d6-5dc03caac4c9" width="180">
